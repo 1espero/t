@@ -52,6 +52,9 @@ body, html {
     color: lightgreen;
 }
 
+.contact-info {
+   display: none;
+}
 /* Form container */
 .form-container {
     display: flex;
